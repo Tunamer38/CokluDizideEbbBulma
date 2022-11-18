@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\bin\Debug\ÇokluDiziEbbBulma.exe.config
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\bin\Debug\ÇokluDiziEbbBulma.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\bin\Debug\ÇokluDiziEbbBulma.pdb
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\obj\Debug\ÇokluDiziEbbBulma.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\obj\Debug\ÇokluDiziEbbBulma.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\obj\Debug\ÇokluDiziEbbBulma.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\ÇokluDiziEbbBulma\ÇokluDiziEbbBulma\obj\Debug\ÇokluDiziEbbBulma.pdb
